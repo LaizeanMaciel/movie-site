@@ -101,7 +101,7 @@ header li:hover a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../movies/bg-little-mermaid.jpg);
+    background-image: url(/bg-little-mermaid.jpg);
     background-size: cover;
     background-position: center;
     overflow: hidden;
